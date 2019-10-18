@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: John Lester C Imperial # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Full-Stack .NET Core Developer, Freelance Xamarin Developer
   <br><br>
-  Second description 
+  Experienced Software Engineer with a demonstrated history of working in the banking industry and IT business processing. 
+  Skilled in Software Documentation, C#, Web Applications, and Bootstrap.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/lesterimperial/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
